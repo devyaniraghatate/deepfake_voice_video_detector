@@ -516,14 +516,6 @@ Possible future enhancements include:
 
 ---
 
-## ⚠️ Limitations
-
-Deepfake detection models can make incorrect predictions, particularly when presented with media types or manipulation techniques that were not represented in the training data.
-
-Therefore, predictions should be treated as **AI-assisted analysis rather than absolute proof of authenticity**.
-
----
-
 ## 📚 References
 
 This project builds upon concepts from deep learning, computer vision, audio processing, and synthetic-media detection research.
